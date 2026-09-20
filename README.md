@@ -147,11 +147,6 @@
 
 ---
 
-
-  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
-</a>
-
-
 ## 🌐 Connect With Me
 
 <p align="center">
