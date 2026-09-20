@@ -119,24 +119,22 @@
 | 👨‍💻 **Personal Portfolio** | Personal developer portfolio website            | HTML, CSS, JavaScript |
 
 ---
-
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya8102278157&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya8102278157&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=adityaanand810&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya8102278157&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaanand810&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aditya8102278157&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://streak-stats.demolab.com/?user=adityaanand810&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -144,7 +142,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya8102278157&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityaanand810&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
