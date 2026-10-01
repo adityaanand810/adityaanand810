@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="450" viewBox="0 0 1200 450">
+
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+ </linearGradient>
+ <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+ </linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+.t{font-family:Arial,Helvetica,sans-serif;fill:#eef2ff}.m{font-family:monospace;fill:#9aa7c7}
+.card{fill:#0d0e16;stroke:url(#g);stroke-width:1.5}.small{font-size:14px}.med{font-size:20px}.big{font-size:46px;font-weight:800}
+</style><rect width="1200" height="450" rx="30" fill="#080a12"/>
+<rect x="20" y="20" width="560" height="410" rx="24" class="card"/>
+<text x="48" y="60" class="m small">// WHAT I BUILD</text><text x="48" y="90" class="t med">Turning ideas into real-world solutions</text>
+<text x="60" y="135" class="t med">🤖 AI / ML Applications</text>
+<text x="60" y="190" class="t med">🌐 Full Stack Web Apps</text>
+<text x="60" y="245" class="t med">💬 Chatbots &amp; Automation</text>
+<text x="60" y="300" class="t med">📱 Responsive Web Apps</text>
+<text x="60" y="355" class="t med">📚 DSA &amp; Problem Solving</text>
+<rect x="610" y="20" width="570" height="410" rx="24" class="card"/>
+<text x="638" y="60" class="m small">// BEYOND CODE</text><text x="638" y="90" class="t med">Interests &amp; Learning</text>
+<text x="638" y="145" class="t med">💻 Coding</text><text x="638" y="190" class="t med">🤖 Artificial Intelligence</text>
+<text x="638" y="235" class="t med">🧠 Machine Learning</text><text x="638" y="280" class="t med">✨ Generative AI</text>
+<text x="638" y="325" class="t med">🚀 Building Real-World Projects</text>
+<text x="638" y="370" class="m small">Python • Java • React • Node.js • MongoDB • DSA</text>
+</svg>

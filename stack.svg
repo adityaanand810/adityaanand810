@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
+
+<defs>
+ <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+ </linearGradient>
+ <linearGradient id="tg" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#22d3ee"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/>
+ </linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<style>
+.t{font-family:Arial,Helvetica,sans-serif;fill:#eef2ff}.m{font-family:monospace;fill:#9aa7c7}
+.card{fill:#0d0e16;stroke:url(#g);stroke-width:1.5}.small{font-size:14px}.med{font-size:20px}.big{font-size:46px;font-weight:800}
+</style><rect width="1200" height="470" rx="30" fill="#080a12"/>
+<rect x="20" y="20" width="1160" height="430" rx="24" class="card"/>
+<text x="48" y="62" class="m small">// TECH STACK ORBIT</text><text x="48" y="92" class="t med">Technologies I work with</text>
+<g transform="translate(355 260)">
+<ellipse rx="270" ry="92" fill="none" stroke="#22d3ee" opacity=".5" transform="rotate(8)"/>
+<ellipse rx="205" ry="68" fill="none" stroke="#a78bfa" opacity=".5" transform="rotate(-15)"/>
+<ellipse rx="140" ry="48" fill="none" stroke="#f472b6" opacity=".5" transform="rotate(20)"/>
+<circle r="62" fill="#101526" stroke="url(#g)" stroke-width="3" filter="url(#glow)"/>
+<text x="-38" y="-5" class="t med">AI / ML</text><text x="-28" y="20" class="m small">CORE</text>
+<g>
+<circle cx="-235" cy="-35" r="35" fill="#11182a" stroke="#22d3ee"/><text x="-258" y="-28" class="t small">Python</text>
+<circle cx="235" cy="-35" r="35" fill="#11182a" stroke="#f472b6"/><text x="215" y="-28" class="t small">Java</text>
+<circle cx="-175" cy="65" r="35" fill="#11182a" stroke="#a78bfa"/><text x="-198" y="72" class="t small">React</text>
+<circle cx="175" cy="65" r="35" fill="#11182a" stroke="#22d3ee"/><text x="153" y="72" class="t small">Node</text>
+<circle cx="-85" cy="-105" r="35" fill="#11182a" stroke="#f472b6"/><text x="-108" y="-98" class="t small">Mongo</text>
+<circle cx="90" cy="-105" r="35" fill="#11182a" stroke="#a78bfa"/><text x="68" y="-98" class="t small">MySQL</text>
+</g>
+<g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/><circle cy="-83" r="7" fill="#22d3ee"/></g>
+</g>
+<g transform="translate(670 145)">
+<text class="m small">FRONTEND</text><text y="28" class="t small">HTML • CSS • JavaScript • React • Bootstrap • Tailwind</text>
+<text y="75" class="m small">BACKEND</text><text y="103" class="t small">Node.js • Express.js • Spring Boot</text>
+<text y="150" class="m small">DATABASE</text><text y="178" class="t small">MongoDB • Mongoose • MySQL • JDBC • SQL</text>
+<text y="225" class="m small">AI / ML</text><text y="253" class="t small">TensorFlow • PyTorch • Deep Learning • GenAI</text>
+</g></svg>
