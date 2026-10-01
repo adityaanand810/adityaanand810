@@ -18,7 +18,11 @@
 
 ---
 
-<img src="./id-dashboard.svg?v=1" alt="Profile dashboard" width="100%"/>
+## 🪪 Holographic ID
+
+<p align="center">
+  <img src="./id-dashboard.svg?v=2" alt="Aditya Anand Holographic ID" width="100%"/>
+</p>
 
 ---
 
@@ -37,16 +41,50 @@
 ## 🌃 3D Contribution City
 
 <p align="center">
-<img src="./profile-3d-contrib/profile-night-view.svg?v=1" alt="3D contribution city" width="100%"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg?v=2" alt="3D contribution city" width="100%"/>
 </p>
 
 ---
 
-<img src="./connect.svg?v=1" alt="Connect with Aditya Anand" width="100%"/>
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:gkumar6193@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://wa.me/918102278157" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-Chat_With_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<a href="https://www.instagram.com/adityaanand58/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="https://www.linkedin.com/in/aditya-anand-616166326/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/adityaanand810" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</p>
+
+---
+
+<img src="./connect.svg?v=2" alt="Connect with Aditya Anand" width="100%"/>
 
 ---
 
 <div align="center">
+
+### 📧 Email
+**gkumar6193@gmail.com**
+
+### 📱 WhatsApp
+**+91 8102278157**
 
 ### 🚀 Keep Learning • Keep Building • Keep Growing
 
